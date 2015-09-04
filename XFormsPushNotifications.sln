@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsPushNotifications", "XFormsPushNotifications\XFormsPushNotifications.csproj", "{389AF67E-AEBA-420D-974C-6BDCF7BC3B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsPushNotifications.Droid", "Droid\XFormsPushNotifications.Droid.csproj", "{77A556CF-4BF7-4F42-8B62-4E4CFE766920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormsPushNotifications.UITests", "UITests\XFormsPushNotifications.UITests.csproj", "{823F7B41-4018-4C3B-B4C8-048E58350D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389AF67E-AEBA-420D-974C-6BDCF7BC3B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389AF67E-AEBA-420D-974C-6BDCF7BC3B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389AF67E-AEBA-420D-974C-6BDCF7BC3B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389AF67E-AEBA-420D-974C-6BDCF7BC3B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A556CF-4BF7-4F42-8B62-4E4CFE766920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A556CF-4BF7-4F42-8B62-4E4CFE766920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A556CF-4BF7-4F42-8B62-4E4CFE766920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A556CF-4BF7-4F42-8B62-4E4CFE766920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823F7B41-4018-4C3B-B4C8-048E58350D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823F7B41-4018-4C3B-B4C8-048E58350D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823F7B41-4018-4C3B-B4C8-048E58350D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823F7B41-4018-4C3B-B4C8-048E58350D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
